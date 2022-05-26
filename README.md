@@ -1,3 +1,3 @@
 # Aulas Python
 
-Aulas e resoluções de atividade em python.
+Aulas e resoluções de atividades em python.
