@@ -1,2 +1,3 @@
-# repository-test
-Repositório de teste.
+# Aulas Python
+
+Aulas e resoluções de atividade em python.
