@@ -1,0 +1,12 @@
+data;status;EAN;produto;Quantidade;valor unitario;valor total;
+22/04/2022;compras;1234;AH Lyft Lidocaina ;20;355,26;7105,20;
+22/04/2022;compras;12345;AH Lidocaine;10;279,93;2799,30;
+22/04/2022;compras;123456;AH Volyme ;5;359,44;1797,20;
+22/04/2022;compras;1234567;AH Refyne;15;332,01;4980,15;
+22/04/2022;compras;12345678;AH Defyne;15;355,26;5328,90;
+22/04/2022;compras;123456789;AH Kysse;10;338,52;3385,20;
+23/04/2022;compras;1234567;AH Refyne;8;350;2800,00;
+23/04/2022;compras;12345678;AH Defyne;6;400;2400,00;
+25/04/2022;compras;1234;AH Lyft Lidocaina ;5;250;1250,00;
+25/04/2022;compras;123456;AH Volyme ;3;312;936,00;
+22/04/2022;compras;1234;AH Lyft Lidocaina ;5;100;500,00;
